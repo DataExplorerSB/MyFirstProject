@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<h1>this is heading 1</h1>
-<h2>this is heading 4</h2>
-<h3>this is heading 4</h3>
-<h4>this is heading 4</h4>
+
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
